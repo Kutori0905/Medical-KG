@@ -1,2 +1,2 @@
 # Medical-KG
-A simple graph project
+A graph project
